@@ -1,4 +1,4 @@
-# Git基础知识闯关材料
+# Git基础知识闯关材料
 
 
 ## 1.自我介绍
@@ -9,4 +9,4 @@ PR链接：https://github.com/InternLM/Tutorial/pull/1950
 
 ## 2.构建个人项目
 
-[个人仓库]()
+[个人仓库](https://github.com/xiaoWen9246/Scholar_LLM_Camp)
